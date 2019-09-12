@@ -209,7 +209,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
     Fork a branch and follow the commands below
 
-`git checkout -b progress`
+[x] `git checkout -b progress`
 
 `git remote add jwasham https://github.com/jwasham/coding-interview-university`
 
